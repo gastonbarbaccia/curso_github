@@ -8,7 +8,7 @@
 </head>
 <body>
 
-    <?php echo "Hola desde AWS"?>
+    <?php echo "Hola desde AWS, segundo intento"?>
 
 </body>
 </html>
